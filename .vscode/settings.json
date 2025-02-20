@@ -1,0 +1,20 @@
+{
+    "editor.inlayHints.enabled": "off",
+    "editor.inlineSuggest.edits.experimental.enabled": true,
+    "editor.inlineSuggest.edits.experimental.onlyShowWhenCloseToCursor": true,
+    "editor.inlineSuggest.enabled": false,
+    "python.languageServer": "None",
+    "editor.inlineSuggest.showToolbar": "never",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "[python]": {
+        "editor.acceptSuggestionOnEnter": "off",
+        "editor.inlineSuggest.showToolbar": "never",
+        "editor.snippetSuggestions": "none"
+    },
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.snippetSuggestions": "none"
+}
