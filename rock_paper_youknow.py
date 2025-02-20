@@ -5,6 +5,7 @@ computer_wins = 0
 
 options= ["rock", "paper", "scissors"]
 
+random.seed()
 
 while True : 
     user_input = input("type ROCK/PAPER/SCISSORS or Q to quit: ").lower()
@@ -48,5 +49,5 @@ while True :
         computer_wins += 1
         
 print("you won", user_wins, "times")
-print("computer won", user_wins, "times")
+print("computer won", computer_wins, "times")
 print("goodbye!")
