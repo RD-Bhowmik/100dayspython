@@ -1,8 +1,5 @@
 def word_to_number(number_string):
-    """
-    Convert a number expressed in words to its integer value.
-    Examples: 'one hundred', 'three million', 'twenty-five thousand six hundred'
-    """
+
     # Dictionary mapping words to values
     word_values = {
         'zero': 0,
